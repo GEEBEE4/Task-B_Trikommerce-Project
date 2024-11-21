@@ -1,5 +1,5 @@
 from restock import restock_inventory
-from sales import daily_sales
+from sales import daily_sales 1
 
 def run_simulation(total_days, inventory_records):
     available_items = 2000
